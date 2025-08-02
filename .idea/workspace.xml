@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d7b1729-5b5d-423b-8c9f-0eac00784f64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Flyable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaBasics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,8 @@
 }</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="JavaBasics" />
       <extension name="coverage">
