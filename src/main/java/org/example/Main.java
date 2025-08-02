@@ -11,5 +11,15 @@ public class Main {
 
         animal.eat();
         animal2.eat();
+
+        ThisExample t1= new ThisExample();
+        t1.thisExample(5);
+        t1.printX();
+
+        Sub s1 = new Sub();
+        s1.inputName("hi");
+        s1.printName();
+
+        SuperExample ex = new SuperExample();
     }
 }
