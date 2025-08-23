@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.objects.A;
+import org.example.s8ic.CalcUtils;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -23,8 +23,7 @@ public class Main {
         s1.printName();
         SuperExample ex = new SuperExample();
 
-        A a= new A(5);
-        A b= new A(6);
-        System.out.println(a.equals(b));
+        int a = CalcUtils.addNumbers(1,2);
+        System.out.println(a);
     }
 }
