@@ -31,7 +31,6 @@ public class Question8 {
         BankAccount b1 = new BankAccount(new BigDecimal("78.78"));
         BankAccount b2 = new BankAccount(new BigDecimal("897.56"));
         System.out.println("Your end balance after deposit is "+ b1.deposit(BigDecimal.valueOf(789.54)));
-        System.out.println(b1.getBalance());
         System.out.println("Your end balance after withdraw is "+ b1.withdraw(BigDecimal.valueOf(89.76)));
         System.out.println("Your end balance after deposit is "+ b1.deposit(BigDecimal.valueOf(90)));
         System.out.println("Your end balance after withdraw is "+ b1.withdraw(BigDecimal.valueOf(89.9)));
