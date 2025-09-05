@@ -17,7 +17,7 @@ class InvalidAgeException extends Exception{
 }
 
 public class Question12 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         try {
             Voting v1 = new Voting(23);
             Voting v2 = new Voting(32);
